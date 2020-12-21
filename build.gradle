@@ -76,7 +76,7 @@ publishing {
 	repositories {
 		maven {
 			name "falsemaven"
-			url "https://maven.falseresync.ru"
+			url "https://maven.falseresync.ru/releases"
 			credentials(PasswordCredentials)
 		}
 	}
