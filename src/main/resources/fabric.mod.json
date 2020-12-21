@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "StopModReposts",
-  "description": "It adds this beautiful GUI, in order to educate more users about the problem of mod reposting sites. And don't worry, it does only show up once per Minecraft directory. (once per installation location)",
+  "description": "This mod helps modders to bring attention to players about the StopModReposts campaign.",
   "authors": [
     "falseresync",
     "JTK222"
@@ -21,7 +21,7 @@
 
   "environment": "client",
   "entrypoints": {
-    "client": [
+    "preLaunch": [
       "org.stopmodreposts.stopmodreposts.SMR"
     ],
     "modmenu": [

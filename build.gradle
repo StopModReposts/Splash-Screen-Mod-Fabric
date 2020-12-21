@@ -16,7 +16,8 @@ dependencies {
 	modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
 	modImplementation fabricApi.module("fabric-resource-loader-v0", project.fabric_version)
 
-	modImplementation "io.github.prospector:modmenu:${project.modmenu_version}"
+	modCompileOnly "io.github.prospector:modmenu:${project.modmenu_version}"
+	modRuntime "io.github.prospector:modmenu:${project.modmenu_version}"
 }
 
 processResources {
@@ -73,6 +74,10 @@ publishing {
 	// Select the repositories you want to publish to
 	// To publish to maven local, no extra repositories are necessary. Just use the task `publishToMavenLocal`.
 	repositories {
-		// See https://docs.gradle.org/current/userguide/publishing_maven.html for information on how to set up publishing.
+		maven {
+			name "falsemaven"
+			url "https://maven.falseresync.ru"
+			credentials(PasswordCredentials)
+		}
 	}
 }
