@@ -8,6 +8,7 @@ campaign. It does this by showing a toast and making a notice explaining the
 basic goal of StopModReposts. Don't worry - both the toast, and the button are
 configurable by either hosting a programmatic election among mods or with a
 config file, shippable by modpacks.
+
 <img src="https://raw.githubusercontent.com/StopModReposts/Splash-Screen-Mod-Fabric/master/assets/titlescreen.png" width="30%"></img>
 <img src="https://raw.githubusercontent.com/StopModReposts/Splash-Screen-Mod-Fabric/master/assets/notice.png" width="30%"></img>
 <img src="https://raw.githubusercontent.com/StopModReposts/Splash-Screen-Mod-Fabric/master/assets/settings.png" width="30%"></img>
