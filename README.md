@@ -57,6 +57,9 @@ Mod, because it won't happen automatically.
 
 NOTE: it requires Fabric API.
 
+**PLEASE!** Notify the users that you have embedded this. They will be more
+informed and less annoyed by the button.
+
 ### If you are a modpack-maker
 #### Override default config
 Create `.minecraft/config/stopmodreposts.json` file with following contents:
@@ -78,6 +81,9 @@ to vote. You can download it from the following:
 - [GitHub](https://github.com/StopModReposts/Splash-Screen-Mod-Fabric/releases)
 
 NOTE: it requires Fabric API.
+
+**PLEASE!** Notify the users that you have embedded this. They will be more
+informed and less annoyed by the button.
 
 ## I don't like this mod. How can I disable it?
 ### If you are a player
