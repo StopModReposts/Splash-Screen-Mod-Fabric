@@ -49,7 +49,7 @@ repositories {
 }
 
 dependencies {
-    include "org.stopmodreposts:Splash-Screen-Mod-Fabric:1.0.0"
+    include "org.stopmodreposts:Splash-Screen-Mod-Fabric:1.0.1"
 }
 ```
 NOTE: you should also participate in mods election if you embed Splash-Screen
