@@ -1,0 +1,13 @@
+{
+    "stopmodreposts.dismiss_toast": "不再显示弹出提示",
+    "stopmodreposts.dismiss_button": "不再显示按钮",
+    "stopmodreposts.show_toast": "游戏启动时显示弹出提示",
+    "stopmodreposts.show_button": "在左上角显示按钮",
+    "stopmodreposts.learn_more": "了解更多（英文）",
+    "stopmodreposts.close": "保存设置并关闭",
+    "stopmodreposts.discard": "放弃更改并关闭",
+    "stopmodreposts.close_notice": "您可以在 Mods 菜单或配置文件里重新启用该按钮。（注意，关闭按钮也将关闭弹出提示。）",
+    "stopmodreposts.stopmodreposts": "StopModReposts",
+    "stopmodreposts.toast": "\u00A76您的 mods 是在哪里下载的？\u00A7f 点击左上角按钮了解更多",
+    "stopmodreposts.screen": "\u00A76您的 mods 都是在作者发布的官方页面下载的吗？不是？\u00A7r\n\n如果是这样的话，您可能正在冒着道德、法律和安全的风险。许多第三方网站会未经允许转载 mods， 有些甚至会在文件中加入恶意软件。\n \n为了避免此类风险，请您仅在可信的平台下载 mods， 例如 CurseForge， 或者在公开透明的开源平台， 例如 Modrinth 或者 GitHub。请您确保 mod 作者亲自将 mod 上传到了平台。\n\n按下下方左边的按钮了解更多信息并保护您的安全。我们也有一个浏览器插件可以提醒您不在未经授权的转载站下载 mods。"
+}
